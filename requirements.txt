@@ -1,6 +1,7 @@
-pip install Flask 
-pip install streamlit
-pip install docx2txt
-pip install pypdf
-pip install scikit-learn
-pip install gunicorn
+
+streamlit
+docx2txt
+pypdf
+scikit-learn
+gunicorn
+Flask 
