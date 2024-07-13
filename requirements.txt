@@ -1,0 +1,5 @@
+pip install flask 
+pip install streamlit
+pip install docx2txt
+pip install pypdf
+pip install scikit-learn
