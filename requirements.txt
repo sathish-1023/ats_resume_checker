@@ -2,5 +2,3 @@ streamlit
 docx2txt
 pypdf
 scikit-learn
-Flask 
-gunicorn

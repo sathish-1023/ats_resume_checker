@@ -18,7 +18,7 @@ def main():
         
         st.markdown("""
         - [Streamlit](https://streamlit.io/)
-        - [Github](https://github.com/sathish_1023/ats_project) Repository         
+        - [Github](https://github.com/sathish-1023/ats_resume_checker) Repository         
         """)
         
         st.write("developed by sathish ( incredible developer ).")
